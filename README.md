@@ -2,8 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anagha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/anagha-p-4aa413233/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Anagha-yellow)](https://stackoverflow.com/users/18346560/anagha-p )
 
 I'm
 Full Stack Solution Architect
