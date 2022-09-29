@@ -2,12 +2,11 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anagha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/anagha-p-4aa413233/)
-
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anagha-yellow)](https://stackoverflow.com/users/18346560/anagha-p )
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack web development intern
+The crossover between design and programming has always been of interest to me, currently I am lucky enough to learn new skills from some talented teams from Edureka.I have a wide range of skills that include back-end development using open source technologies (NodeJs,Express, Python), design (working closely with designers), front-end development (React, HTML5, CSS3, Javascript, Responsive),database(MongoDB).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Anaghaanu123/count.svg)
